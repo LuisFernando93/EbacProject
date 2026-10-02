@@ -12,3 +12,9 @@ Optimizations implemented on the meshes SM\_Bush and SM\_Chair, both of which ar
 
 Comparando os resultados no Unreal Insights, em BeforeOptimization e AfterOptimization, essas mudanças não pareceram ter nenhum impacto significante, fora uma pequena melhora na renderização durante alguns frames.
 
+
+
+
+
+Legenda adicionada para o pulo, com localização, como mostrado nas screenshots Jump pt-br e Jump en
+
