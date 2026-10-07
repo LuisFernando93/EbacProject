@@ -1,1 +1,5 @@
 Content/** filter=lfs diff=lfs merge=lfs -text
+C:/Users/luisp/Documents/Projetos/Unreal filter=lfs diff=lfs merge=lfs -text
+Engine/EbacProject/Executable/Windows/EbacProject/Content/Paks/EbacProject-Windows.ucas filter=lfs diff=lfs merge=lfs -text
+C:/Users/luisp/Documents/Projetos/Unreal filter=lfs diff=lfs merge=lfs -text
+Engine/EbacProject/Executable filter=lfs diff=lfs merge=lfs -text
